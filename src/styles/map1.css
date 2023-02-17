@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.map1 {
+    width: 100vw;
+    height: 100vh;
+    background: #eef0fa;
+    border-radius: 10px;
+  }
+  .icons>div{
+    height: 30px;
+    width: 30px;
+    background: #8676FF;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+  }
+#earn{
+  margin-top: 3px;
+}
+.l{
+  margin: 30px;
+}
